@@ -4,7 +4,7 @@
 
 Submitted by: **Huu Le**
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/boggy-tar-leader
 
